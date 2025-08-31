@@ -59,9 +59,9 @@ Git/GitHub · Jupyter Notebook · VS Code
 **Repo:** [View Code](https://github.com/Sohitha-01/Telco-Customer-Churn-Dashboard)  
 **Dashboard:** [Tableau](https://github.com/Sohitha-01/Telco-Customer-Churn-Dashboard/tree/7fb3fe733cc1b8905a186f1c94ab7676f522ef1d/Dashboard)  
 
-- Built an **end-to-end churn analysis solution** using the Telco Customer Churn dataset.  
-- Cleaned and prepared data with Python, designed Tableau dashboards, and created an executive report highlighting churn patterns, demographic/service impacts, and revenue loss (~30%).  
-- Provided business leaders with actionable insights to support targeted retention strategies.  
+- Analyzed **customer churn patterns** to identify high-risk segments and key drivers of attrition.  
+- Explored **demographic and service-related factors** influencing churn (e.g., contracts, payment methods, internet services).  
+- Quantified the **financial impact of churn** (~30% monthly revenue loss) and provided insights for targeted retention strategies.  
 
 **Stack:** Python, Tableau, CSV, PDF  
 
