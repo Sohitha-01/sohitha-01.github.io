@@ -43,18 +43,6 @@ Git/GitHub · Jupyter Notebook · VS Code
 
 ## Projects  
 
-### 📊 Performance & Risk Monitor (META)  
-**Repo:** [View Code](https://github.com/Sohitha-01/META-stocks-Performance-Risk-Monitor)  
-**Dashboard:** [Power BI](https://sohitha-01.github.io/META-stocks-Performance-Risk-Monitor/Dashboard/META_Performance_Risk_Monitor.pbix) , [Interactive Dashboard](https://sohitha-01.github.io/META-stocks-Performance-Risk-Monitor/Dashboard/META_Interactive_Dashboard.html)  
-
-- Designed an **end-to-end performance and risk monitoring solution** for stock data.  
-- Delivered anomaly detection, volatility tracking, and return analysis in a single interactive dashboard.  
-- Improved decision-making speed by surfacing risk signals and patterns that would otherwise remain hidden.  
-
-**Stack:** Python (Pandas, NumPy, Plotly), SQL, Power BI  
-
----
-
 ### 📈 Sales Performance Analytics  
 **Repo:** [View Code](https://github.com/Sohitha-01/Sales-Performance-Analysis)  
 **Dashboard:** [Power BI](https://sohitha-01.github.io/Sales-Performance-Analysis/Dashboard/Sales_Performance_Dashboard.pbix)
@@ -64,6 +52,30 @@ Git/GitHub · Jupyter Notebook · VS Code
 - Enabled leadership to quickly identify gaps and prioritize growth opportunities.  
 
 **Stack:** SQL/T-SQL, Python, Tableau, Power BI  
+
+---
+
+### 📊 Telco Customer Churn Dashboard  
+**Repo:** [View Code](https://github.com/Sohitha-01/Telco-Customer-Churn-Dashboard)  
+**Dashboard:** [Tableau](https://github.com/Sohitha-01/Telco-Customer-Churn-Dashboard/tree/7fb3fe733cc1b8905a186f1c94ab7676f522ef1d/Dashboard)  
+
+- Built an **end-to-end churn analysis solution** using the Telco Customer Churn dataset.  
+- Cleaned and prepared data with Python, designed Tableau dashboards, and created an executive report highlighting churn patterns, demographic/service impacts, and revenue loss (~30%).  
+- Provided business leaders with actionable insights to support targeted retention strategies.  
+
+**Stack:** Python, Tableau, CSV, PDF  
+
+---
+
+### 📊 Performance & Risk Monitor (META)  
+**Repo:** [View Code](https://github.com/Sohitha-01/META-stocks-Performance-Risk-Monitor)  
+**Dashboard:** [Power BI](https://sohitha-01.github.io/META-stocks-Performance-Risk-Monitor/Dashboard/META_Performance_Risk_Monitor.pbix) , [Interactive Dashboard](https://sohitha-01.github.io/META-stocks-Performance-Risk-Monitor/Dashboard/META_Interactive_Dashboard.html)  
+
+- Designed an **end-to-end performance and risk monitoring solution** for stock data.  
+- Delivered anomaly detection, volatility tracking, and return analysis in a single interactive dashboard.  
+- Improved decision-making speed by surfacing risk signals and patterns that would otherwise remain hidden.  
+
+**Stack:** Python (Pandas, NumPy, Plotly), SQL, Power BI  
 
 ---
 
