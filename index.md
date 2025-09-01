@@ -67,6 +67,18 @@ Git/GitHub · Jupyter Notebook · VS Code
 
 ---
 
+### 🚑 Analyzing Emergency Department (ED) Wait Times  
+
+**Repo:** [View Code](https://github.com/Sohitha-01/Analyzing-Emergency-Department-ED-Wait-Times-to-Improve-Patient-Flow)   
+
+- Built a **data pipeline** to analyze emergency department wait times and identify patient flow bottlenecks.  
+- Used **Python, SQL, and visualization tools** to model wait time distributions and optimize staffing strategies.  
+- Provided **actionable insights** to improve patient throughput and reduce average waiting times.  
+
+**Stack:** SQL, Python, Pandas, NumPy, CSV  
+
+---
+
 ### 📊 Performance & Risk Monitor (META)  
 **Repo:** [View Code](https://github.com/Sohitha-01/META-stocks-Performance-Risk-Monitor)  
 **Dashboard:** [Power BI](https://sohitha-01.github.io/META-stocks-Performance-Risk-Monitor/Dashboard/META_Performance_Risk_Monitor.pbix) , [Interactive Dashboard](https://sohitha-01.github.io/META-stocks-Performance-Risk-Monitor/Dashboard/META_Interactive_Dashboard.html)  
