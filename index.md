@@ -91,6 +91,19 @@ Git/GitHub · Jupyter Notebook · VS Code
 
 ---
 
+## NLP Masters Project — Bayesian Evolution & Text Classification  
+
+Repo: [View Code](https://github.com/Sohitha-01/NLP_masters_project)  
+Report: [View Report](https://github.com/Sohitha-01/NLP_masters_project/blob/e31c28f7153203e346c4970ff32b93255170801e/Report.pdf)  
+
+- Built a **Bayesian discrete evolution model** using PyMC to analyze linguistic frequency dynamics over time.  
+- Implemented **text classification** with both classical ML (Naive Bayes) and a **PyTorch neural network baseline**.  
+- Developed a **character-level orthography model** for sequence prediction tasks.  
+
+**Stack:** Python, PyMC, ArviZ, scikit-learn, PyTorch, NumPy, pandas, Matplotlib  
+
+---
+
 ## Experience
 ### **Data Analyst — Marshall Health Network**  
 - Transformed static reports into **dynamic decision dashboards**, giving leadership real-time visibility into clinical and operational KPIs.  
