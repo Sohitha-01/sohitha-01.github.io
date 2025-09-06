@@ -91,7 +91,7 @@ Git/GitHub · Jupyter Notebook · VS Code
 
 ---
 
-## NLP Masters Project — Bayesian Evolution & Text Classification  
+## NLP Project — Bayesian Evolution & Text Classification  
 
 Repo: [View Code](https://github.com/Sohitha-01/NLP_masters_project)  
 Report: [View Report](https://github.com/Sohitha-01/NLP_masters_project/blob/e31c28f7153203e346c4970ff32b93255170801e/Report.pdf)  
