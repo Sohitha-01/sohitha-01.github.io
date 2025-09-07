@@ -10,19 +10,12 @@ I don’t just process data. I design **decision tools** — tools that give lea
 
 ## Table of Contents
 - [About Me](#about-me)  
-- [Expertise](#expertise)  
 - [Skills](#skills)  
 - [Projects](#projects)  
 - [Experience](#experience)  
 - [Education](#education)  
 - [Certifications](#certifications)  
 - [Contact](#contact)  
-
----
-
-## Expertise
-Data Analysis | Data Visualization | KPI Tracking | ETL Pipelines | Data Cleaning | Data Wrangling | Statistical & Predictive Modeling (Regression, Forecasting, A/B Testing, Classification, Clustering) | 
-Workflow Automation | Report Optimization | Data Storytelling | Stakeholder Communication | Business Insights
 
 ---
 
