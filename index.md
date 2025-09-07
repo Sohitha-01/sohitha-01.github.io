@@ -91,10 +91,24 @@ Git/GitHub · Jupyter Notebook · VS Code
 
 ---
 
-## NLP Project — Bayesian Evolution & Text Classification  
+### 🌦️ AI-Enhanced Weather Forecasting  
 
-Repo: [View Code](https://github.com/Sohitha-01/NLP_masters_project)  
-Report: [View Report](https://github.com/Sohitha-01/NLP_masters_project/blob/e31c28f7153203e346c4970ff32b93255170801e/Report.pdf)  
+**Repo:** [View Code](https://github.com/Sohitha-01/AI-Enhanced-Weather-Forecating)  
+**Live App:** [Rain Tomorrow Predictor](https://rain-tomorrow-predictor.streamlit.app/)  
+
+- Built an AI-driven weather forecasting system using Logistic Regression, Random Forest, and XGBoost.
+- Conducted EDA, feature engineering, and model evaluation on 142k+ rows of Australian weather data.
+- Deployed a Streamlit web application for real-time rainfall prediction with interactive user inputs.
+- Achieved strong model performance (ROC-AUC > 0.88), with XGBoost as the top-performing model.
+
+**Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
+
+---
+
+### NLP Project — Bayesian Evolution & Text Classification  
+
+**Repo:** [View Code](https://github.com/Sohitha-01/NLP_masters_project)  
+**Report:** [View Report](https://github.com/Sohitha-01/NLP_masters_project/blob/e31c28f7153203e346c4970ff32b93255170801e/Report.pdf)  
 
 - Built a **Bayesian discrete evolution model** using PyMC to analyze linguistic frequency dynamics over time.  
 - Implemented **text classification** with both classical ML (Naive Bayes) and a **PyTorch neural network baseline**.  
